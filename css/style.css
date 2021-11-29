@@ -57,6 +57,7 @@ body {
   height: 100%;
   width: 0;
   background-color: darkcyan;
+  transition: width 0.3s;
 }
 
 .xp-num {
